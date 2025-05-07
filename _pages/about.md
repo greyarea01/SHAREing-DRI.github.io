@@ -37,7 +37,7 @@ research and innovation through the transition of large-scale
 compute-, data-intensive and AI workflows into the era of accelerated compute.
 SHAREing will
 
-- foster an ecosystem in which RTPs and other stakeholders can design, prototype and assess the best accelerated software-hardware combination for their research, i.e.~pioneer solutions.
+- foster an ecosystem in which RTPs and other stakeholders can design, prototype and assess the best accelerated software-hardware combination for their research, i.e. pioneer solutions.
 - establish structured learning, including upskilling pathways, such that RTPs can acquire all skills to realise accelerated computing projects and to subsequently train others.
 - showcase how RTPs' interventions enable significant research innovation if they transform into dev-ops that lead accelerate computing projects.
 
@@ -52,4 +52,6 @@ It will deliver a talented workforce with core competencies for
 accelerated research computing environments.
 A close collaboration with national, European and international initiatives will 
 strengthen its impact and branding and establish the UK as showcase of the benefits of using a holistic approach to creating a national DRI, where RTPs partner with academics to dev-op the most challenging simulation-, throughput- or AI-workloads.
+
+This work was supported by the Engineering and Physical Sciences Research Council [grant number t.b.c.] and the Science and Technology Facilities Council [grant number UKRI/ST/B000293/1]. The underlying projects SHAREing (Skills Hub for Accelerated Research Environments Inspiring the Next Generation) and HAI-End are part of the cross-UKRI Digital Research Infrastructure initiative.
 

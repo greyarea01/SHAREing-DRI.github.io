@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-banner.png
 excerpt: >
-  Digital Research Infrastructure (DRI) involves computing for scientific and data intensive workloads. Ranging from traditional supercomputers to specialised data processing.
+  SHAREing is part of the UK's Digital Research Infrastructure (DRI) investments into skills and knowledge, i.e. the brains behind the racks.
 
 feature_row:
   - image_path: /assets/images/home-projects.png
