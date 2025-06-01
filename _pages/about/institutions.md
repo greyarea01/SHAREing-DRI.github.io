@@ -15,6 +15,8 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     btn_label: "Visit IDAS"
 ---
 
+## Home Institution
+
 ![Durham University](/assets/images/Durham.jpg)
 
 SHAREing has its office spaces in a shared office with the Institute for Data Science (IDAS) and the directorate for Advanced Research Computing (ARC).
@@ -29,6 +31,8 @@ Stockton Rd
 Durham DH1 3LE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+## Consortium members
 
 {% include feature_row %}
 
