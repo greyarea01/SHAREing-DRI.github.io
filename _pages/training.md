@@ -1,8 +1,8 @@
 ---
-title: DRI Projects
+title: Training
 layout: projects-collection
-permalink: /projects/
-collection: projects
+permalink: /training/
+collection: training
 entries_layout: grid
 sort_by: order
 sort_order: reversed
