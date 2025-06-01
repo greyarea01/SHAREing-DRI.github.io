@@ -9,6 +9,10 @@ In 2025, we have launched a series of events under the DRI's HAI-End project to 
 Colleagues from industry and tool vendors joined these meetings.
 The HAI-End consortium collected all outcomes and distilled them into a joint workbook, which we make available through SHAREing.
 
+![Performance Analysis Workshop group photo](/assets/eventphotos/2025_PerformanceAnalysisWorkshop.jpg)
+
+
+Above: Members of one of the initial working group meetings.
 
 ## Versions
 
