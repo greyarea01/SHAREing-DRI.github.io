@@ -29,7 +29,7 @@ feature_row:
     excerpt: "SHAREing collects information around acceleate-focused training, but also organises and creates its own training material."
     url: "/events/"
     btn_class: "btn--primary"
-    btn_label: "View schedule"
+    btn_label: "Find out more"
   - image_path: /assets/images/home-events.png
     alt: "Events schedule"
     title: "SHAREing events"
@@ -50,7 +50,7 @@ feature_row:
     excerpt: "SHAREing is part of a wider ensemble of Digital Research Infrastructure (DRI) projects and itself embedded into a network of partners."
     url: "/resources/"
     btn_class: "btn--primary"
-    btn_label: "Access these"
+    btn_label: "Find out more"
 ---
 
 {% include feature_row %}
