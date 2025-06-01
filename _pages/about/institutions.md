@@ -4,8 +4,8 @@ title: "Institutions"
 
 feature_row:
   - image_path: /assets/logos/DurhamUniversity.png
-    alt: "Durham University Computer Science"
-    title: "Durham University (Computer Science)"
+    alt: "Durham University"
+    title: "Durham University"
     excerpt: "Durham University is a collegiate public research university in Durham, England, founded by an Act of Parliament in 1832 and incorporated by royal charter in 1837. While being the third-oldest university in England, the Department of Computer Science is one of Durham's newest academic departments, having split from the School of Engineering and Computer Science in 2017. It currently hosts research groups in computer vision, AI, high-performance and scientific computing, digital humanities, computer science education, and networks. Durham houses multiple supercomputers, most notably the supercomputer serving the eight most research-intensive universities in the North of England, and the DiRAC tier-1 machine.
     
 Involved divisions in Durham are the Institute for Data Science (lead) and the Department of Computer Science, the directorate for Advanced Reserach Computing (ARC) and the Department of Physics' Institute for Computational Cosmology. 
