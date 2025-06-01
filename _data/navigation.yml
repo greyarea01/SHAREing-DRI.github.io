@@ -9,3 +9,6 @@ main:
     url: /events/
   - title: "Resources"
     url: /resources/
+  - title: "Network"
+    url: /network/
+    
