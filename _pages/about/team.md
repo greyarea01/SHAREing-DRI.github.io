@@ -11,3 +11,4 @@ title: "The SHAREing team"
     btn_label: "Find out more"
 ---
 
+{% include feature_row %}
