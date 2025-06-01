@@ -6,24 +6,16 @@ feature_row:
   - image_path: /assets/logos/DurhamUniversity-CS.png
     alt: "Durham University Computer Science"
     title: "Durham University (Computer Science)"
-    excerpt: "Lead department"
+    excerpt: "Durham University is a collegiate public research university in Durham, England, founded by an Act of Parliament in 1832 and incorporated by royal charter in 1837. While being the third-oldest university in England, the Department of Computer Science is one of Durham's newest academic departments, having split from the School of Engineering and Computer Science in 2017. It currently hosts research groups in computer vision, AI, high-performance and scientific computing, digital humanities, computer science education, and networks. Durham houses multiple supercomputers, most notably the supercomputer serving the eight most research-intensive universities in the North of England, and the DiRAC tier-1 machine.
+    
+Involved divisions in Durham are the Institute for Data Science (lead) and the Department of Computer Science, the directorate for Advanced Reserach Computing (ARC) and the Department of Physics' Institute for Computational Cosmology. 
+    "
     url: "https://www.durham.ac.uk/research/institutes-and-centres/advanced-research-computing/"
-    btn_class: "btn--primary"
-    btn_label: "Visit"
-  - image_path: /assets/logos/DurhamUniversity-ARC.png
-    alt: "Durham University ARC"
-    title: "Durham University (Advanced Research Computing)"
-    excerpt: "Champion of performance analysis studies in Durham"
-    url: "https://www.durham.ac.uk/research/institutes-and-centres/advanced-research-computing/"
-    btn_class: "btn--primary"
-    btn_label: "Visit"
-  - image_path: https://www.durham.ac.uk/media/durham-university/research-/research-institutes/institute-for-data-science/IDAS-LOGO.PNG
-    alt: "Durham University IDAS"
-    title: "Durham University (Institute for Data Science)"
-    excerpt: "Interdisciplinary lead institution serving as umbrella for SHAREing in Durham with office spaces, logistics infrastructure, and other DRI projects."
-    url: "https://www.durham.ac.uk/research/institutes-and-centres/data-science/"
     btn_class: "btn--primary"
     btn_label: "Visit"
 ---
 
 {% include feature_row %}
+
+
+
