@@ -13,21 +13,21 @@ feature_row:
     alt: "About"
     title: "About SHAREing"
     excerpt: "More about SHAREing, its vision and the people behind the project"
-    url: "/projects/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Find out more"
   - image_path: /assets/images/home-assessment.png
     alt: "Assessments"
     title: "Performance and machine assessments"
     excerpt: "SHAREing provides performance and machine assessments to the wider UK computational science community."
-    url: "/projects/"
+    url: "/assessment/"
     btn_class: "btn--primary"
     btn_label: "Find out more"
   - image_path: /assets/images/home-training.png
     alt: "Training"
     title: "Training"
     excerpt: "SHAREing collects information around acceleate-focused training, but also organises and creates its own training material."
-    url: "/events/"
+    url: "/training/"
     btn_class: "btn--primary"
     btn_label: "Find out more"
   - image_path: /assets/images/home-events.png
@@ -45,10 +45,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Access these"
   - image_path: /assets/images/home-network.png
-    alt: "resources"
+    alt: "network"
     title: "Network"
     excerpt: "SHAREing is part of a wider ensemble of Digital Research Infrastructure (DRI) projects and itself embedded into a network of partners."
-    url: "/resources/"
+    url: "/network/"
     btn_class: "btn--primary"
     btn_label: "Find out more"
 ---
