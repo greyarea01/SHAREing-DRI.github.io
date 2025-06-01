@@ -2,6 +2,7 @@
 permalink: /resources/
 title: "SHAREing resources"
 
+feature_row:
   - image_path: /assets/images/logo.png
     alt: "Vision"
     title: "Performance Assessment Guidebook"

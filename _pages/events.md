@@ -2,6 +2,7 @@
 permalink: /events/
 title: "DRI events"
 
+feature_row:
   - image_path: /assets/images/logo.png
     alt: "Vision"
     title: "SHAREing's Vision"

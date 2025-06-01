@@ -2,6 +2,7 @@
 permalink: /network/
 title: "SHAREing's network"
 
+feature_row:
   - image_path: /assets/images/logo.png
     alt: "Vision"
     title: "SHAREing's Vision"

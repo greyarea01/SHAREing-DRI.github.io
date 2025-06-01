@@ -2,6 +2,7 @@
 permalink: /about/team
 title: "The SHAREing team"
 
+feature_row:
   - image_path: /assets/logos/DurhamUniversity-CS.png
     alt: "Durham University Computer Science"
     title: "Durham University (Computer Science)"
