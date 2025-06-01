@@ -15,9 +15,20 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     btn_label: "Visit IDAS"
 ---
 
-![Durham University](assets/images/Durham.jpg)
+![Durham University](/assets/images/Durham.jpg)
 
-SHAREing is 
+SHAREing has its office spaces in a shared office with the Institute for Data Science (IDAS) and the directorate for Advanced Research Computing (ARC).
+Its physical address is
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Institute for Data Science
+Durham University 
+Upper Montjoy Hub
+Upper Mountjoy Campus
+Stockton Rd
+Durham DH1 3LE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 {% include feature_row %}
 
