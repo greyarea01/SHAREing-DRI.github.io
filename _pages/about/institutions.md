@@ -15,6 +15,10 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     btn_label: "Visit IDAS"
 ---
 
+![Durham University](assets/images/Durham.jpg)
+
+SHAREing is 
+
 {% include feature_row %}
 
 
