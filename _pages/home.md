@@ -58,3 +58,4 @@ feature_row:
 
 This work was supported by the Engineering and Physical Sciences Research Council [grant number XXXX]. The underlying project SHAREing (Skills Hub for Accelerated Research Environments Inspiring the Next Generation) is part of the cross-UKRI Digital Research Infrastructure initiative.
 
+![EPSRC](/assets/logos/epsrc.png)
