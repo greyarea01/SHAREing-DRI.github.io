@@ -11,9 +11,14 @@ For the time being, SHAREing hosts this material, and we use it as support mater
 Whenever participants find out that they lack some (very) basic terminology or concepts, we refer them to these mini-lectures to ensure that everybody is on the same pages.
 
 
-## Versions
+## Knowledge graph (overview)
+
+<a href="https://360.articulate.com/review/content/df08a035-b9d6-4de4-ae5f-4c62b33bc67b/review">
+  ![HPC knowledge graph](/assets/images/hpc-foundations-knowledge-graph.png)
+</a>
 
 Please click the link [here](https://360.articulate.com/review/content/df08a035-b9d6-4de4-ae5f-4c62b33bc67b/review) to access the 'Foundations of HPC' knowledge graph.
+
 
 ## Acknowledgements
 
