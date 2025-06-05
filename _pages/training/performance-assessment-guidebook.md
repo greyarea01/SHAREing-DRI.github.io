@@ -13,6 +13,7 @@ Whenever participants find out that they lack some (very) basic terminology or c
 
 ## Versions
 
+Please click the link [here](https://360.articulate.com/review/content/df08a035-b9d6-4de4-ae5f-4c62b33bc67b/review) to access the 'Foundations of HPC' knowledge graph.
 
 ## Acknowledgements
 

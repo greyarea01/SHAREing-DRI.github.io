@@ -16,6 +16,10 @@ Above: Members of one of the initial working group meetings.
 
 ## Versions
 
+The current version of the performance analysis workbook is a brief
+introduction to terminology and a high-level analysis and is available
+[here](/assets/pdfs/perf_analysis_workbook_brief.pdf).
+
 
 ## Acknowledgements
 
