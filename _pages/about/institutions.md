@@ -14,7 +14,7 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     btn_class: "btn--primary"
     btn_label: "Visit IDAS"
 	
- - image_path: /assets/logos/DurhamUniversity.png
+ - image_path: /assets/logos/QMUL.png
     alt: "Queen Mary University of London"
     title: "Queen Mary University of London"
     excerpt: " Queen Mary University of London (QMUL) is an
