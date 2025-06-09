@@ -14,6 +14,14 @@ feature_row:
     alt: "Thomas Flynn"
     title: "Thomas Flynn"
     excerpt: "Thomas Flynn, Research Software Engineer, Advanced Research Computing, Durham University"
+	 - image_path: /assets/images/bio_photo.jpg
+    alt: "Biagio Lucini"
+    title: "Biagio Lucini"
+    excerpt: "Biagio Lucini, Centre for Geometry, Analysis and Gravitation, School of Mathematical Sciences, Queen Mary University of London"
+    url: "https://www.qmul.ac.uk/maths/profiles/lucinib.html"
+    btn_class: "btn--primary"
+    btn_label: "Visit"
+	
 ---
 
 {% include feature_row %}
