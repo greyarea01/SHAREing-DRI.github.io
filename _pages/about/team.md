@@ -14,6 +14,10 @@ feature_row:
     alt: "Thomas Flynn"
     title: "Thomas Flynn"
     excerpt: "Thomas Flynn, Research Software Engineer, Advanced Research Computing, Durham University"
+  - image_path: /assets/images/edbennett.jpg
+    alt: "Ed Bennett"
+    title: "Ed Bennett"
+    excerpt: "Ed Bennett, Senior Research Software Engineer, Swansea Academy of Advanced Computing, Swansea University"
 ---
 
 {% include feature_row %}
