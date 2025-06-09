@@ -13,6 +13,21 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     url: "https://www.durham.ac.uk/research/institutes-and-centres/data-science/"
     btn_class: "btn--primary"
     btn_label: "Visit IDAS"
+	
+ - image_path: /assets/logos/DurhamUniversity.png
+    alt: "Queen Mary University of London"
+    title: "Queen Mary University of London"
+    excerpt: " Queen Mary University of London (QMUL) is an
+    established university in London's vibrant East End committed to
+    high-quality research. High-Performace Computing underpins the
+    activity of two Research Centres at QMUL: The Centre for Geometry,
+    Analysis and Gravitation in the School of Mathematical Sciences, and the
+    Centre for Fundamental Physics in the School of Physical and
+    Chemical Sciences. Queen Mary University of London hosts and runs
+    Apocrita, a heterogeneous HPC cluster comprising around 350 nodes and 12,500
+    compute cores.
+	"
+
 ---
 
 ## Home Institution
