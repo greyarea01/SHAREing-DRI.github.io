@@ -13,7 +13,6 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     url: "https://www.durham.ac.uk/research/institutes-and-centres/data-science/"
     btn_class: "btn--primary"
     btn_label: "Visit IDAS"
-	
  - image_path: /assets/logos/QMUL.png
     alt: "Queen Mary University of London"
     title: "Queen Mary University of London"
@@ -27,7 +26,13 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     Apocrita, a heterogeneous HPC cluster comprising around 350 nodes and 12,500
     compute cores.
 	"
-
+  - image_path: /assets/logos/SwanseaUniversity.svg
+    alt: "Swansea University"
+    title: "Swansea University"
+    excerpt: "Swansea University is a research-intensive university in Swansea, Wales, founded by royal charter in 1920 as a constituent college of the University of Wales, and becoming independent in 2007. The Swansea Academy of Advanced Computing (SA2C), founded in 2017, bridges Digital Services and the academic Faculties to deliver high-performance computing services to researchers across Wales. This has included hosting the Swansea hub of the Supercomputing Wales facility, and hosting the AccelerateAI facility."
+    url: "https://www.swansea.ac.uk/"
+    btn_class: "btn--primary"
+    btn_label: "Visit Swansea University"
 ---
 
 ## Home Institution
