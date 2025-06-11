@@ -25,6 +25,10 @@ feature_row:
     url: "https://www.qmul.ac.uk/maths/profiles/lucinib.html"
     btn_class: "btn--primary"
     btn_label: "Visit"
+  - image_path: /assets/profilepics/Eva-Fernandez.jpg
+    alt: "Eva Fernandez Amez"
+    title: "Eva Fernandez Amez"
+    excerpt: "Eva Fernandez Amez, Assistant Digital Learning Developer, Durham University"
 ---
 
 {% include feature_row %}
