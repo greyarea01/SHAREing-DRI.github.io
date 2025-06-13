@@ -3,6 +3,14 @@ permalink: /about/institutions
 title: "Institutions"
 
 feature_row:
+  - image_path: /assets/logos/Cardiff-Logo.png
+    alt: "Cardiff University"
+    title: "Cardiff University"
+    excerpt: "Yet to be written. 
+    "
+    url: "https://t.b.d."
+    btn_class: "btn--primary"
+    btn_label: "Visit Cardiff"
   - image_path: /assets/logos/DurhamUniversity.png
     alt: "Durham University"
     title: "Durham University"
