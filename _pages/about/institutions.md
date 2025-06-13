@@ -25,7 +25,7 @@ Durham DH1 3LE
 
 ### Cardiff University
 
-![Cardiff University](/assets/logos/Cardiff-Logo.png =250x)
+![Cardiff University](/assets/logos/Cardiff-Logo.png)
 
 excerpt: "Yet to be written. 
 
