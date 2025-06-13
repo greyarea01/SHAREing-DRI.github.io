@@ -43,7 +43,7 @@ Involved divisions in Durham are the Institute for Data Science (lead) and the D
     btn_label: "Visit Swansea University"
 ---
 
-## Home Institution
+## Lead Institution
 
 ![Durham University](/assets/images/Durham.jpg)
 
@@ -65,7 +65,7 @@ Durham DH1 3LE
 
 ### Cardiff University
 
-![Cardiff University](/assets/images/Cardiff-Logo.png)
+![Cardiff University](/assets/logos/Cardiff-Logo.png)
 
 excerpt: "Yet to be written. 
 
@@ -74,7 +74,7 @@ excerpt: "Yet to be written.
 
 ### Durham University 
 
-![Durham University](/assets/images/DurhamUniversity.png)
+![Durham University](/assets/logos/DurhamUniversity.png)
 
 Durham University is a collegiate public research university in Durham, England, founded by an Act of Parliament in 1832 and incorporated by royal charter in 1837. While being the third-oldest university in England, the Department of Computer Science is one of Durham's newest academic departments, having split from the School of Engineering and Computer Science in 2017. It currently hosts research groups in computer vision, AI, high-performance and scientific computing, digital humanities, computer science education, and networks. Durham houses multiple supercomputers, most notably the supercomputer serving the eight most research-intensive universities in the North of England, and the DiRAC tier-1 machine.
     
