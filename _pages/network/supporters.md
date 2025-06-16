@@ -14,7 +14,7 @@ title: "SHAREing's supporters"
  <tr>
   <td>
    <a href="https://www.sunderlandsoftwarecity.com">
-    <img width="200px" src="assets/logos/SunderlandSoftwareCity.png" />
+    <img width="200px" src="/assets/logos/SunderlandSoftwareCity.png" />
    </a>
   </td>
  </tr>
