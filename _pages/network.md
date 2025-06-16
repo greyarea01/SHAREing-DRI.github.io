@@ -10,6 +10,13 @@ feature_row:
     url: "https://cake-dri.github.io/"
     btn_class: "btn--primary"
     btn_label: "Find out more"
+  - image_path: /assets/images/home-network.png
+    alt: "Supporters"
+    title: "SHAREing's supporters"
+    excerpt: "SHAREing relies on a wide range of supporters to deliver its work."
+    url: "/network/supporters"
+    btn_class: "btn--primary"
+    btn_label: "Visit supporters"
 ---
 
 {% include feature_row %}
