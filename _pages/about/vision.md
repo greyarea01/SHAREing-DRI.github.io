@@ -39,33 +39,33 @@ strengthen its impact and branding and establish the UK as showcase of the benef
 
 ### SHAREing's Assessment
 
-SHAREing will build up a UK-wide service, where research groups and SMEs can submit their codes for assessment.
-Subject to funding, SHAREing will write a report covering key questions 
 
-- Is this code base well-suited for accelerate computing?
-- What is the best-case gain that can be expected?
-- What compute platforms would be best-suited for this use case?
+SHAREing will establish a UK-wide service where research groups and SMEs can submit their code for assessment. 
+Subject to funding, SHAREing will produce reports addressing three key questions: 
 
-For a successful delivery, the consortium has to gather information on existing performance assessment and benchmarking approaches.
-It will then compile these approaches into a bespoke SHAREing methodology which is consequently delivered through the SHAREing assesssments to the UK community.
-All the knowledge and documentation will be made available publicly, such that any compute centre can benefit from the work conducted.
+- Is this codebase well-suited for accelerated computing? 
+- What is the best-case performance gain that can be expected? 
+- Which compute platforms would be best-suited for this use case?
 
-Besides the SHAREing methodology, SHAREing will collect information on accelerator testbeds from all over the UK and make this information publicly available.
-There will also be the opportunity for other sites to register "their" testbeds and hence use SHAREing as a platform to disseminate knowledge about their platforms to the wider community, increasing the chance to recruit adopters and testers. 
+To ensure successful delivery, the consortium must gather information on existing performance assessment and benchmarking approaches. 
+These approaches will then be compiled into a bespoke SHAREing methodology, which will then be delivered to the UK community through SHAREing assessments. 
+All knowledge and documentation will be made publicly available so that any compute centre can benefit from this work.
+In addition to the SHAREing methodology, the project will collect information on accelerator testbeds from across the UK and publish this information on its websites. 
+Compute centres will have the opportunity to register their testbeds and use SHAREing as a platform to share knowledge about their platforms with the wider community, thereby increasing the likelihood of recruiting adopters and testers.
 
 
 
 ### SHAREing's Training
 
 
-SHAREing's training has to cover content along two dimensions: technical training and professional skills training.
-For both rubrics, the consortium will bring together and curate existing content.
-The consortium will try to avoid reinventing wheels.
-However, where we identify missing blocks, SHAREing will have resources to commission the creation of new content.
+SHAREing's training must cover content along two dimensions: technical training and professional skills training. 
+For both areas, the consortium will bring together and curate existing content, avoiding reinventing the wheel wherever possible. 
+However, where we identify gaps, SHAREing will have resources to commission the creation of new content.
 
-This applies notably to the professional skills space, where the amount of training material is limited:
-SHAREing will have to ask what particular skills we require for a faster delivery of faster science workflows using faster hardware building blocks,
-and where upskilling content can help to strenghten the position of digital Research Technology Professionals:
+
+This applies particularly to the professional skills space, where training material is limited. 
+SHAREing will need to determine what specific skills are required for faster delivery of faster science workflows using faster hardware building blocks, and identify where upskilling content can help strengthen the position of digital Research Technology Professionals:
+
 
 
 ### SHAREing's Lobbying
