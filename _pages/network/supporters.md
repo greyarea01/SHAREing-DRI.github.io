@@ -3,7 +3,13 @@ permalink: /network/supporters
 title: "SHAREing's supporters"
 ---
 
-<a
+## Societies and consortia
+
+
+
+
+## Industry partners
+
 <table border="0">
  <tr>
   <td>
