@@ -46,7 +46,7 @@ title: "SHAREing's supporters"
     <img width="200px" src="/assets/logos/HPC-SIG.png" />
    </a>
   </td>
- <tr>
+ </tr>
 </table>
 
 
@@ -67,6 +67,8 @@ title: "SHAREing's supporters"
   </td>
  </tr>
 </table>
+
+## European consortia 
 
 ## Industry partners
 
