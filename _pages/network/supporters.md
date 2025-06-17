@@ -116,14 +116,16 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="https://casc.org/wp-content/uploads/2024/06/Logo.svg" />
    </a>
   </td>
+ </tr>
+ <tr>
   <td>
    <a href="https://home.cern/">
     <img width="200px" src="https://home.cern/sites/default/files/logo/cern-logo.png" />
    </a>
   </td>
   <td>
-   <a href="https://home.cern/">
-    <img width="200px" src="https://home.cern/sites/default/files/logo/cern-logo.png" />
+   <a href="https://crd.lbl.gov/">
+    <img width="200px" src="/assets/logos/lbl.png" />
    </a>
   </td>
  </tr>
