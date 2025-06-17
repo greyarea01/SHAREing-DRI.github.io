@@ -46,9 +46,20 @@ title: "SHAREing's supporters"
     <img width="200px" src="/assets/logos/HPC-SIG.png" />
    </a>
   </td>
+  <td>
+   <a href="https://hpc-sig.org.uk/">
+    <img width="200px" src="/assets/logos/HPC-SIG.png" />
+   </a>
+  </td>
  </tr>
 </table>
 
+
+
+  \includepdf[pages=-]{los/LoS_AIHub.pdf}
+  \includepdf[pages=-]{los/LoS_ExaGEO.pdf}
+  \includepdf[pages=-]{los/LoS_IRIS.pdf}
+  \includepdf[pages=-]{los/LoS_EPCC.pdf}
 
 
 ## Local business partners
@@ -68,15 +79,11 @@ title: "SHAREing's supporters"
  </tr>
 </table>
 
-## European consortia 
-
-## Industry partners
+## International partners 
 
 <!--
-  
-  %
-  % European consortia
-  %
+  \includepdf[pages=-]{los/LoS_GeorgiaTech.pdf}
+
   \includepdf[pages=-]{los/LoS_ECMWF.pdf}
   \includepdf[pages=-]{los/LoS_ChEESE.pdf}
   \includepdf[pages=-]{los/LoS_MAX.pdf}
@@ -84,16 +91,16 @@ title: "SHAREing's supporters"
   \includepdf[pages=-]{los/LoS_CASC.pdf}
   \includepdf[pages=-]{los/LoS_CERN.pdf}
   \includepdf[pages=-]{los/LoS_LBL.pdf}
-  \includepdf[pages=-]{los/LoS_AIHub.pdf}
-  \includepdf[pages=-]{los/LoS_ExaGEO.pdf}
-  \includepdf[pages=-]{los/LoS_IRIS.pdf}
+-->
+
+## Industry partners
+
+<!--
   
   %
   % Not enlisted as partners
   %
   \includepdf[pages=-]{los/LoS_Tenstorrent.pdf}
-  \includepdf[pages=-]{los/LoS_GeorgiaTech.pdf}
-  \includepdf[pages=-]{los/LoS_EPCC.pdf}
   \includepdf[pages=-]{los/LoS_NVIDIA.pdf}
   \includepdf[pages=-]{los/LoS_Linaro.pdf}
   \includepdf[pages=-]{los/LoS_BIOSIT.pdf}
