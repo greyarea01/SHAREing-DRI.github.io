@@ -87,14 +87,34 @@ title: "SHAREing's supporters"
     <img width="200px" src="/assets/logos/GeorgiaTech.png" />
    </a>
   </td>
+  <td>
+   <a href="https://www.ecmwf.int/">
+    <img width="200px" src="https://www.ecmwf.int/sites/default/files/ECMWF50_Logo_Horizontal_White.png" />
+   </a>
+  </td>
+  <td>
+   <a href="https://cheese-coe.eu/">
+    <img width="200px" src="https://cheese-coe.eu/sites/default/files/images/Cheese_Logo_Negativo.svg" />
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://cheese-coe.eu/">
+    <img width="200px" src="https://cheese-coe.eu/sites/default/files/images/Cheese_Logo_Negativo.svg" />
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://www.max-centre.eu/">
+    <img width="200px" src="/assets/logos/MAX-CoE.jpeg" />
+   </a>
+  </td>
  </tr>
 </table>
 
 <!--
-  \includepdf[pages=-]{los/LoS_GeorgiaTech.pdf}
-
-  \includepdf[pages=-]{los/LoS_ECMWF.pdf}
-  \includepdf[pages=-]{los/LoS_ChEESE.pdf}
   \includepdf[pages=-]{los/LoS_MAX.pdf}
   \includepdf[pages=-]{los/LoS_FAU.pdf}
   \includepdf[pages=-]{los/LoS_CASC.pdf}
