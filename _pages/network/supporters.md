@@ -80,6 +80,8 @@ title: "SHAREing's supporters"
 
 ## International partners 
 
+SHAREing collaborates with partners from several reknown international institutions:
+
 <table border="0" bgcolor="#343434">
  <tr>
   <td>
@@ -115,15 +117,19 @@ title: "SHAREing's supporters"
    </a>
   </td>
   <td>
-   <a href="https://casc.org/">
-    <img width="200px" src="https://casc.org/wp-content/uploads/2024/06/Logo.svg" />
+   <a href="https://home.cern/">
+    <img width="200px" src="https://home.cern/sites/default/files/logo/cern-logo.png" />
+   </a>
+  </td>
+  <td>
+   <a href="https://home.cern/">
+    <img width="200px" src="https://home.cern/sites/default/files/logo/cern-logo.png" />
    </a>
   </td>
  </tr>
 </table>
 
 <!--
-  \includepdf[pages=-]{los/LoS_CERN.pdf}
   \includepdf[pages=-]{los/LoS_LBL.pdf}
 -->
 
