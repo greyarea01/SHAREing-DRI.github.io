@@ -5,7 +5,7 @@ title: "SHAREing's supporters"
 
 ## Societies, consortia and national compute facilities
 
-<table border="0">
+<table border="0" bgcolor="#343434">
  <tr>
   <td>
    <a href="https://www.cosec.ac.uk/">
@@ -63,7 +63,7 @@ title: "SHAREing's supporters"
 
 ## Local business partners
 
-<table border="0">
+<table border="0" bgcolor="#343434">
  <tr>
   <td>
    <a href="https://www.sunderlandsoftwarecity.com">
@@ -80,7 +80,7 @@ title: "SHAREing's supporters"
 
 ## International partners 
 
-<table border="0">
+<table border="0" bgcolor="#343434">
  <tr>
   <td>
    <a href="https://cse.gatech.edu/">
@@ -100,24 +100,29 @@ title: "SHAREing's supporters"
  </tr>
  <tr>
   <td>
-   <a href="https://cheese-coe.eu/">
-    <img width="200px" src="https://cheese-coe.eu/sites/default/files/images/Cheese_Logo_Negativo.svg" />
-   </a>
-  </td>
- </tr>
- <tr>
-  <td>
    <a href="https://www.max-centre.eu/">
     <img width="200px" src="/assets/logos/MAX-CoE.jpeg" />
+   </a>
+  </td>
+  <td>
+   <a href="https://www.cs10.tf.fau.de/">
+    <img width="200px" src="https://www.cs10.tf.fau.de/files/2018/04/cropped-LSS-Logo-1.png" />
+   </a>
+  </td>
+  <td>
+   <a href="https://casc.org/">
+    <img width="200px" src="https://casc.org/wp-content/uploads/2024/06/Logo.svg" />
+   </a>
+  </td>
+  <td>
+   <a href="https://casc.org/">
+    <img width="200px" src="https://casc.org/wp-content/uploads/2024/06/Logo.svg" />
    </a>
   </td>
  </tr>
 </table>
 
 <!--
-  \includepdf[pages=-]{los/LoS_MAX.pdf}
-  \includepdf[pages=-]{los/LoS_FAU.pdf}
-  \includepdf[pages=-]{los/LoS_CASC.pdf}
   \includepdf[pages=-]{los/LoS_CERN.pdf}
   \includepdf[pages=-]{los/LoS_LBL.pdf}
 -->
