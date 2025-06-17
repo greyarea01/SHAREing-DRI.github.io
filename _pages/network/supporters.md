@@ -5,7 +5,7 @@ title: "SHAREing's supporters"
 
 ## Societies, consortia and national compute facilities
 
-<table border="0" bgcolor="#343434">
+<table border="0">
  <tr>
   <td>
    <a href="https://www.cosec.ac.uk/">
@@ -46,7 +46,7 @@ title: "SHAREing's supporters"
     <img width="200px" src="/assets/logos/HPC-SIG.png" />
    </a>
   </td>
-  <td>
+  <td bgcolor="#343434">
    <a href="https://www.iris.ac.uk/">
     <img width="200px" src="https://www.iris.ac.uk/wp-content/uploads/2019/09/cropped-On-Dark.png" />
    </a>
