@@ -23,17 +23,33 @@ title: "SHAREing's supporters"
    </a>
   </td>
  </tr>
+ <tr>
+  <td>
+   <a href="https://www.software.ac.uk/">
+    <img width="200px" src="/assets/logos/SSI.svg" />
+   </a>
+  </td>
+  <td>
+   <a href="https://womeninhpc.org/">
+    <img width="200px" src="/assets/logos/WHPC.jpg" />
+   </a>
+  </td>
+  <td>
+   <a href="https://society-rse.org/">
+    <img width="200px" src="/assets/logos/Soc_RSE.png" />
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://hpc-sig.org.uk/">
+    <img width="200px" src="/assets/logos/HPC-SIG.png" />
+   </a>
+  </td>
+ <tr>
 </table>
 
-<!--
-  \includepdf[pages=-]{los/LoS_SSI.pdf}
- 
-  % Advisory board
-  \includepdf[pages=-]{los/LoS_WHPC.pdf}
-  \includepdf[pages=-]{los/LoS_SocRSE.pdf}
-  \includepdf[pages=-]{los/LoS_HPCSig.pdf}
 
--->
 
 ## Local business partners
 
