@@ -5,10 +5,37 @@ title: "SHAREing's supporters"
 
 ## Societies and consortia
 
+<table border="0">
+ <tr>
+  <td>
+   <a href="https://www.cosec.ac.uk/">
+    <img width="200px" src="/assets/logos/CoSeC.png" />
+   </a>
+  </td>
+  <td>
+   <a href="https://dirac.ac.uk/">
+    <img width="200px" src="/assets/logos/DiRAC.webp" />
+   </a>
+  </td>
+  <td>
+   <a href="https://n8cir.org.uk/">
+    <img width="200px" src="/assets/logos/N8CIR.png" />
+   </a>
+  </td>
+ </tr>
+</table>
 
+<!--
+  \includepdf[pages=-]{los/LoS_SSI.pdf}
+ 
+  % Advisory board
+  \includepdf[pages=-]{los/LoS_WHPC.pdf}
+  \includepdf[pages=-]{los/LoS_SocRSE.pdf}
+  \includepdf[pages=-]{los/LoS_HPCSig.pdf}
 
+-->
 
-## Industry partners
+## Local business partners
 
 <table border="0">
  <tr>
@@ -17,21 +44,17 @@ title: "SHAREing's supporters"
     <img width="200px" src="/assets/logos/SunderlandSoftwareCity.png" />
    </a>
   </td>
+  <td>
+   <a href="https://dynamonortheast.co.uk/">
+    <img width="200px" src="/assets/logos/Dynamo.gif" />
+   </a>
+  </td>
  </tr>
 </table>
 
+## Industry partners
+
 <!--
-  \includepdf[pages=-]{los/LoS_Sunderland.pdf}
-  \includepdf[pages=-]{los/LoS_Dynamo.pdf}
-  \includepdf[pages=-]{los/LoS_CoSeC.pdf}
-  \includepdf[pages=-]{los/LoS_DiRAC.pdf}
-  \includepdf[pages=-]{los/LoS_N8.pdf}
-  \includepdf[pages=-]{los/LoS_SSI.pdf}
- 
-  % Advisory board
-  \includepdf[pages=-]{los/LoS_WHPC.pdf}
-  \includepdf[pages=-]{los/LoS_SocRSE.pdf}
-  \includepdf[pages=-]{los/LoS_HPCSig.pdf}
   
   %
   % European consortia
