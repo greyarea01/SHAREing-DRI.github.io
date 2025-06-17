@@ -56,7 +56,6 @@ title: "SHAREing's supporters"
 
 
 
-  \includepdf[pages=-]{los/LoS_AIHub.pdf}
   \includepdf[pages=-]{los/LoS_ExaGEO.pdf}
   \includepdf[pages=-]{los/LoS_IRIS.pdf}
   \includepdf[pages=-]{los/LoS_EPCC.pdf}
