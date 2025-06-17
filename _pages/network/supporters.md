@@ -89,13 +89,13 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="/assets/logos/GeorgiaTech.png" />
    </a>
   </td>
-  <td>
-   <a href="https://www.ecmwf.int/" bgcolor="#343434">
+  <td bgcolor="#343434">
+   <a href="https://www.ecmwf.int/">
     <img width="200px" src="https://www.ecmwf.int/sites/default/files/ECMWF50_Logo_Horizontal_White.png" />
    </a>
   </td>
-  <td>
-   <a href="https://cheese-coe.eu/" bgcolor="#343434">
+  <td bgcolor="#343434">
+   <a href="https://cheese-coe.eu/">
     <img width="200px" src="https://cheese-coe.eu/sites/default/files/images/Cheese_Logo_Negativo.svg" />
    </a>
   </td>
@@ -111,15 +111,15 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="https://www.cs10.tf.fau.de/files/2018/04/cropped-LSS-Logo-1.png" />
    </a>
   </td>
-  <td>
-   <a href="https://casc.org/" bgcolor="#343434">
+  <td bgcolor="#343434">
+   <a href="https://casc.org/">
     <img width="200px" src="https://casc.org/wp-content/uploads/2024/06/Logo.svg" />
    </a>
   </td>
  </tr>
  <tr>
-  <td>
-   <a href="https://home.cern/" bgcolor="#343434">
+  <td bgcolor="#343434">
+   <a href="https://home.cern/">
     <img width="200px" src="https://home.cern/sites/default/files/logo/cern-logo.png" />
    </a>
   </td>
