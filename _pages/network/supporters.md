@@ -84,7 +84,7 @@ title: "SHAREing's supporters"
  <tr>
   <td>
    <a href="https://cse.gatech.edu/">
-    <img width="200px" src="https://cse.gatech.edu/themes/contrib/gt_theme/logo.svg" />
+    <img width="200px" src="/assets/logos/GeorgiaTech.png" />
    </a>
   </td>
  </tr>
