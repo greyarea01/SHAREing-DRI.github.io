@@ -3,7 +3,7 @@ permalink: /network/supporters
 title: "SHAREing's supporters"
 ---
 
-## Societies and consortia
+## Societies, consortia and national compute facilities
 
 <table border="0">
  <tr>
@@ -80,6 +80,16 @@ title: "SHAREing's supporters"
 
 ## International partners 
 
+<table border="0">
+ <tr>
+  <td>
+   <a href="Georgia Tech">
+    <img width="200px" src="https://cse.gatech.edu/themes/contrib/gt_theme/logo.svg" />
+   </a>
+  </td>
+ </tr>
+</table>
+
 <!--
   \includepdf[pages=-]{los/LoS_GeorgiaTech.pdf}
 
@@ -93,6 +103,16 @@ title: "SHAREing's supporters"
 -->
 
 ## Industry partners
+
+<table border="0">
+ <tr>
+  <td>
+   <a href="https://www.sunderlandsoftwarecity.com">
+<!--    <img width="200px" src="/assets/logos/SunderlandSoftwareCity.png" /> -->
+   </a>
+  </td>
+ </tr>
+</table>
 
 <!--
   
