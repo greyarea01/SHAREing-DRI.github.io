@@ -47,18 +47,18 @@ title: "SHAREing's supporters"
    </a>
   </td>
   <td>
-   <a href="https://hpc-sig.org.uk/">
-    <img width="200px" src="/assets/logos/HPC-SIG.png" />
+   <a href="https://www.iris.ac.uk/">
+    <img width="200px" src="https://www.iris.ac.uk/wp-content/uploads/2019/09/cropped-On-Dark.png" />
+   </a>
+  </td>
+  <td>
+   <a href="https://www.epcc.ed.ac.uk">
+    <img width="200px" src="/assets/logos/epcc.jpg" />
    </a>
   </td>
  </tr>
 </table>
 
-
-
-  \includepdf[pages=-]{los/LoS_ExaGEO.pdf}
-  \includepdf[pages=-]{los/LoS_IRIS.pdf}
-  \includepdf[pages=-]{los/LoS_EPCC.pdf}
 
 
 ## Local business partners
