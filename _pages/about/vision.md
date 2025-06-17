@@ -24,18 +24,6 @@ SHAREing will
 2. establish structured learning, including upskilling pathways, such that RTPs can acquire all skills to realise accelerated computing projects and to subsequently train others.
 3. showcase how RTPs' interventions enable significant research innovation if they transform into dev-ops that lead accelerate computing projects.
 
-SHAREing focuses predominantly on the required skills, learning ecosystems facilitating training, and the sharing of
-expertise, material and core initiatives,
-but also will contribute towards an ecosystem to apply the acquired skills to enable the use of accelerated compute within the UK's research and innovation landscape.
-Inclusivity, accessibility and a science-centred ethos will be core to SHAREing, encouraging 
-open-mindedness and critical thinking, respecting that there is 
-often no single `right way' when operating at the forefront of technology and
-research.
-It will deliver a talented workforce with core competencies for 
-accelerated research computing environments.
-A close collaboration with national, European and international initiatives will 
-strengthen its impact and branding and establish the UK as showcase of the benefits of using a holistic approach to creating a national DRI, where RTPs partner with academics to dev-op the most challenging simulation-, throughput- or AI-workloads.
-
 
 ### SHAREing's Assessment
 
@@ -94,3 +82,17 @@ is not sustainable in the long-term.
 SHAREing will therefore establish a shared UK-wide and cross-disciplinary Hub that supports and enables RTPs to accelerate 
 research and innovation through the transition of large-scale 
 compute-, data-intensive and AI workflows into the era of accelerated compute.
+
+## Outcome and realisation
+
+SHAREing focuses predominantly on the required skills, learning ecosystems facilitating training, and the sharing of
+expertise, material and core initiatives,
+but also will contribute towards an ecosystem to apply the acquired skills to enable the use of accelerated compute within the UK's research and innovation landscape.
+Inclusivity, accessibility and a science-centred ethos will be core to SHAREing, encouraging 
+open-mindedness and critical thinking, respecting that there is 
+often no single `right way' when operating at the forefront of technology and
+research.
+It will deliver a talented workforce with core competencies for 
+accelerated research computing environments.
+A close collaboration with national, European and international initiatives will 
+strengthen its impact and branding and establish the UK as showcase of the benefits of using a holistic approach to creating a national DRI, where RTPs partner with academics to dev-op the most challenging simulation-, throughput- or AI-workloads.
