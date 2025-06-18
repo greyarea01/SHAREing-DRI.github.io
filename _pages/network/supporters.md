@@ -187,16 +187,16 @@ SHAREing collaborates with partners from several reknown international instituti
   </td>
  </tr>
  <tr>
+  <td>
+   <a href="https://www.logicalis.com/">
+    <img width="200px" src="https://www.logicalis.com/sites/default/files/styles/xs_small/public/2023-12/logicalis-logo-white.png.webp" />
+   </a>
+  </td>
+  <td>
+   <a href="https://www.vastdata.com/">
+    <img width="200px" src="/assets/logos/VAST.png" />
+   </a>
+  </td>
  </tr>
 </table>
 
-
-<!--
-  
-  %
-  % Not enlisted as partners
-  %
-  \includepdf[pages=-]{los/LoS_Lenovo.pdf}
-  \includepdf[pages=-]{los/LoS_Logicalis.pdf}
-  \includepdf[pages=-]{los/LoS_Vast.pdf}
--->
