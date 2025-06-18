@@ -94,7 +94,7 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="https://www.ecmwf.int/sites/default/files/ECMWF50_Logo_Horizontal_White.png" />
    </a>
   </td>
-  <td bgcolor="#343434">
+  <td>
    <a href="https://cheese-coe.eu/">
     <img width="200px" src="/assets/logos/ChEESE.svg" />
    </a>
@@ -131,21 +131,22 @@ SHAREing collaborates with partners from several reknown international instituti
  </tr>
 </table>
 
-<!--
-  \includepdf[pages=-]{los/LoS_LBL.pdf}
--->
 
 ## Industry partners
 
 <table border="0">
  <tr>
   <td>
-   <a href="https://www.sunderlandsoftwarecity.com">
-<!--    <img width="200px" src="/assets/logos/SunderlandSoftwareCity.png" /> -->
+   <a href="https://tenstorrent.com/">
+    <img width="200px" src="/assets/logos/tenstorrent.svg" />
    </a>
   </td>
  </tr>
 </table>
+
+
+
+
 
 <!--
   
