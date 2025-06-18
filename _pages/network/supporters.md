@@ -164,15 +164,15 @@ SHAREing collaborates with partners from several reknown international instituti
    </a>
   </td>
   <td>
-   <a href="https://www.bios-it.co.uk">
-    <img width="200px" src="https://www.bios-it.co.uk/images/home/BIOS-header-logo-191x45px.svg" />
+   <a href="https://clustervision.com/">
+    <img width="200px" src="https://clustervision.com/wp-content/uploads/2020/11/ClusterVision-ISC-Logo-2024-Landscape-lockup-digital-COLOUR-934x170-1.png" />
    </a>
   </td>
  </tr>
  <tr>
   <td>
-   <a href="https://clustervision.com/">
-    <img width="200px" src="https://clustervision.com/wp-content/uploads/2020/11/ClusterVision-ISC-Logo-2024-Landscape-lockup-digital-COLOUR-934x170-1.png" />
+   <a href="https://www.dell.com/">
+    <img width="200px" src="/assets/logos/Dell.webp" />
    </a>
   </td>
  </tr>
@@ -181,17 +181,11 @@ SHAREing collaborates with partners from several reknown international instituti
 </table>
 
 
-
-
-
-
-
 <!--
   
   %
   % Not enlisted as partners
   %
-  \includepdf[pages=-]{los/LoS_ClusterVision.pdf}
   \includepdf[pages=-]{los/LoS_Dell.pdf}
   \includepdf[pages=-]{los/LoS_Kaytus.pdf}
   \includepdf[pages=-]{los/LoS_Lenovo.pdf}
