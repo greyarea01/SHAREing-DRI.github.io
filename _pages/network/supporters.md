@@ -96,7 +96,7 @@ SHAREing collaborates with partners from several reknown international instituti
   </td>
   <td bgcolor="#343434">
    <a href="https://cheese-coe.eu/">
-    <img width="200px" src="https://cheese-coe.eu/sites/default/files/images/Cheese_Logo_Negativo.svg" />
+    <img width="200px" src="/assets/logos/ChEESE.svg" />
    </a>
   </td>
  </tr>
