@@ -175,6 +175,11 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="/assets/logos/Dell.png" />
    </a>
   </td>
+  <td>
+   <a href="https://www.kaytus.com/">
+    <img width="200px" src="https://www.kaytus.com/global/template/images/logo.svg" />
+   </a>
+  </td>
  </tr>
  <tr>
  </tr>
@@ -186,7 +191,6 @@ SHAREing collaborates with partners from several reknown international instituti
   %
   % Not enlisted as partners
   %
-  \includepdf[pages=-]{los/LoS_Dell.pdf}
   \includepdf[pages=-]{los/LoS_Kaytus.pdf}
   \includepdf[pages=-]{los/LoS_Lenovo.pdf}
   \includepdf[pages=-]{los/LoS_Logicalis.pdf}
