@@ -172,7 +172,7 @@ SHAREing collaborates with partners from several reknown international instituti
  <tr>
   <td>
    <a href="https://www.dell.com/">
-    <img width="200px" src="/assets/logos/Dell.webp" />
+    <img width="200px" src="/assets/logos/Dell.png" />
    </a>
   </td>
  </tr>
