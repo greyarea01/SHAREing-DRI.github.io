@@ -160,6 +160,11 @@ SHAREing collaborates with partners from several reknown international instituti
   </td>
  </tr>
  <tr>
+  <td>
+   <a href="https://www.bios-it.co.uk">
+    <img width="200px" src="https://www.bios-it.co.uk/images/home/BIOS-header-logo-191x45px.svg" />
+   </a>
+  </td>
  </tr>
  <tr>
  </tr>
@@ -178,7 +183,6 @@ SHAREing collaborates with partners from several reknown international instituti
   %
   % Not enlisted as partners
   %
-  \includepdf[pages=-]{los/LoS_Linaro.pdf}
   \includepdf[pages=-]{los/LoS_BIOSIT.pdf}
   \includepdf[pages=-]{los/LoS_ClusterVision.pdf}
   \includepdf[pages=-]{los/LoS_Dell.pdf}
