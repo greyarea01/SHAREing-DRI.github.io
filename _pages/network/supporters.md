@@ -187,7 +187,7 @@ SHAREing collaborates with partners from several reknown international instituti
   </td>
  </tr>
  <tr>
-  <td>
+  <td bgcolor="#343434">
    <a href="https://www.logicalis.com/">
     <img width="200px" src="https://www.logicalis.com/sites/default/files/styles/xs_small/public/2023-12/logicalis-logo-white.png.webp" />
    </a>
