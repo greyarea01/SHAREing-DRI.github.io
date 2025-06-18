@@ -63,7 +63,7 @@ title: "SHAREing's supporters"
 
 ## Local business partners
 
-<table border="0" bgcolor="#343434">
+<table border="0">
  <tr>
   <td>
    <a href="https://www.sunderlandsoftwarecity.com">
@@ -141,6 +141,11 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="/assets/logos/tenstorrent.svg" />
    </a>
   </td>
+  <td>
+   <a href="https://www.nvidia.com">
+    <img width="200px" src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container/nv_image.coreimg.100.630.png/1703060329053/nvidia-logo-vert.png" />
+   </a>
+  </td>
  </tr>
 </table>
 
@@ -153,7 +158,6 @@ SHAREing collaborates with partners from several reknown international instituti
   %
   % Not enlisted as partners
   %
-  \includepdf[pages=-]{los/LoS_Tenstorrent.pdf}
   \includepdf[pages=-]{los/LoS_NVIDIA.pdf}
   \includepdf[pages=-]{los/LoS_Linaro.pdf}
   \includepdf[pages=-]{los/LoS_BIOSIT.pdf}
