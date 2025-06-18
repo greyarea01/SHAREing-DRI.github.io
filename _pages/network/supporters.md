@@ -146,11 +146,24 @@ SHAREing collaborates with partners from several reknown international instituti
     <img width="200px" src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container/nv_image.coreimg.100.630.png/1703060329053/nvidia-logo-vert.png" />
    </a>
   </td>
-  <td>
+  <td bgcolor="#343434">
    <a href="https://www.amd.com">
     <img width="200px" src="https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg" />
    </a>
   </td>
+ </tr>
+ <tr>
+  <td bgcolor="#343434">
+   <a href="https://www.linaro.org/">
+    <img width="200px" src="https://www.linaro.org/_astro/logo_20Fg4F.webp" />
+   </a>
+  </td>
+ </tr>
+ <tr>
+ </tr>
+ <tr>
+ </tr>
+ <tr>
  </tr>
 </table>
 
@@ -165,7 +178,6 @@ SHAREing collaborates with partners from several reknown international instituti
   %
   % Not enlisted as partners
   %
-  \includepdf[pages=-]{los/LoS_NVIDIA.pdf}
   \includepdf[pages=-]{los/LoS_Linaro.pdf}
   \includepdf[pages=-]{los/LoS_BIOSIT.pdf}
   \includepdf[pages=-]{los/LoS_ClusterVision.pdf}
