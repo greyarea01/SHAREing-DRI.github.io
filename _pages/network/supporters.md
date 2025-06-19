@@ -57,6 +57,13 @@ title: "SHAREing's supporters"
    </a>
   </td>
  </tr>
+ <tr>
+  <td>
+   <a href="https://hpc-sig.org.uk/">
+    <img width="200px" src="https://hpc-sig.org.uk/wp-content/uploads/2023/11/cropped-HPC-SIG-Logo-Tagline-v3.png" />
+   </a>
+  </td>
+ </tr>
 </table>
 
 
