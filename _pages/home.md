@@ -56,7 +56,7 @@ feature_row:
 {% include feature_row %}
 
 
-This project has received funding through the UKRI Digital Research Infrastructure Programme [grant number UKRI1801 (SHAREing)].
+This project has received funding through the UKRI Digital Research Infrastructure Programme under grant UKRI1801 (SHAREing).
 
 
 ![EPSRC](/assets/logos/ukri.png)

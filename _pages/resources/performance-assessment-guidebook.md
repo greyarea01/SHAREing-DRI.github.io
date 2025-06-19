@@ -23,6 +23,6 @@ introduction to terminology and a high-level analysis and is available
 
 ## Acknowledgements
 
-This project has received funding through the UKRI Digital Research Infrastructure Programme [grant number UKRI/ST/B000293/1 (HAI-End)].
+This project has received funding through the UKRI Digital Research Infrastructure Programme under grant number UKRI/ST/B000293/1 (HAI-End).
 
 ![EPSRC](/assets/logos/ukri.png)
