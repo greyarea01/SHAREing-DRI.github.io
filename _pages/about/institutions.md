@@ -34,7 +34,7 @@ Yet to be written.
 
 ### CoSeC
 
-![Cardiff University](/assets/logos/Cosec.png)
+![Cardiff University](/assets/logos/CoSeC.png)
 
 Yet to be written. 
 
