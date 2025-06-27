@@ -33,6 +33,10 @@ feature_row:
     alt: "Eva Fernandez Amez"
     title: "Eva Fernandez Amez"
     excerpt: "Eva Fernandez Amez, Assistant Digital Learning Developer, Durham University"
+  - image_path: https://apps.dur.ac.uk/biography/image/1768
+    alt: "Alastair Basden"
+    title: "Alastair Basden"
+    excerpt: "Alastair Basden, Director of COSMA, Durham University, DiRAC Technical Directorate"
 ---
 
 {% include feature_row %}
