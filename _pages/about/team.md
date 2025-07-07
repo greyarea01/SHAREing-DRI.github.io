@@ -18,10 +18,14 @@ feature_row:
     alt: "Thomas Flynn"
     title: "Thomas Flynn"
     excerpt: "Thomas Flynn, Research Software Engineer, Advanced Research Computing, Durham University"
+  - image_path: /assets/profilepics/Longshaw.jpg
+    alt: "Stephen Longshaw"
+    title: "Stephen Longshaw"
+    excerpt: "Stephen Longshaw, Director, Computational Science Centre for Research Communities (CoSeC), STFC"
   - image_path: /assets/profilepics/DamianJones.jpg
     alt: "Damian Jones"
     title: "Damian Jones"
-    excerpt: "Damian Jones, Project Office Manager, Computational Science Centre for Research Communities (CoSeC), STFC"
+    excerpt: "Damian Jones, Programme Manager, Computational Science Centre for Research Communities (CoSeC), STFC"
   - image_path: /assets/profilepics/Lucini.jpg
     alt: "Biagio Lucini"
     title: "Biagio Lucini"
