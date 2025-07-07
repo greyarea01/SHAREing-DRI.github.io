@@ -34,9 +34,14 @@ Yet to be written.
 
 ### CoSeC
 
-![Cardiff University](/assets/logos/CoSeC.png)
+![CoSeC](/assets/logos/CoSeC-STFC.png)
 
-Yet to be written. 
+The Computational Science Centre for Research Communities (CoSeC) enables and supports collaborative computational research communities that are funded across UKRI. It has a mission to deliver research software as an infrastructure in order to enable world-class UK Research and Innovation.
+
+The communities are designed using multiple structures, including Collaborative Computational Projects (CCPs) and High-End Computing (HEC) Consortia. The Centre is run by UKRI STFC Scientific Computing and is made up of a core Programme Office plus a large team of Research Technical Professionals organised into domain-specific technical teams.
+
+CoSeC is part of Scientific Computing at STFC (https://www.sc.stfc.ac.uk/). STFC Scientific Computing is an international centre of excellence for advanced computing expertise and digital research infrastructure. The department provides the vital skills and tools required for modern research and innovation through our depth of expertise and knowledge, combined
+with our global network of partners and internationally renowned facilities.  
 
 [Visit CoSeC](https://www.cosec.ac.uk/)
 
