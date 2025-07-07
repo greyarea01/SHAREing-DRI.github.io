@@ -27,9 +27,18 @@ Durham DH1 3LE
 
 ![Cardiff University](/assets/logos/Cardiff-Logo.png)
 
-excerpt: "Yet to be written. 
+Yet to be written. 
 
 [Visit Cardiff](https://link-url-here.org)
+
+
+### CoSeC
+
+![Cardiff University](/assets/logos/CoSeC.png)
+
+Yet to be written. 
+
+[Visit CoSeC](https://www.cosec.ac.uk/)
 
 
 ### Durham University 

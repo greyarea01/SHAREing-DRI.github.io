@@ -23,7 +23,6 @@ introduction to terminology and a high-level analysis and is available
 
 ## Acknowledgements
 
-This work was supported by the Science and Technology Facilities Council [grant number UKRI/ST/B000293/1]. 
-The underlying project HAI-End is part of the cross-UKRI Digital Research Infrastructure initiative.
+This project has received funding through the UKRI Digital Research Infrastructure Programme under grant number UKRI/ST/B000293/1 (HAI-End).
 
-![EPSRC](/assets/logos/stfc.png)
+![EPSRC](/assets/logos/ukri.png)
