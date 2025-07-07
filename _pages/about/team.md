@@ -41,7 +41,7 @@ feature_row:
     alt: "Georgios Fourtakas"
     title: "Georgios Fourtakas"
     excerpt: "Georgios Fourtakas, Associate Professor, School of Engineering, The University of Manchester"
-	url: "https://research.manchester.ac.uk/en/persons/georgios.fourtakas"
+    url: "https://research.manchester.ac.uk/en/persons/georgios.fourtakas"
 ---
 
 {% include feature_row %}
