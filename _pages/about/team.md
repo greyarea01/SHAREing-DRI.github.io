@@ -37,6 +37,11 @@ feature_row:
     alt: "Alastair Basden"
     title: "Alastair Basden"
     excerpt: "Alastair Basden, Director of COSMA, Durham University, DiRAC Technical Directorate"
+  - image_path: /assets/profilepics/GFourtakas.jpg
+    alt: "Georgios Fourtakas"
+    title: "Georgios Fourtakas"
+    excerpt: "Georgios Fourtakas, Associate Professor, School of Engineering, The University of Manchester"
+	url: "https://research.manchester.ac.uk/en/persons/georgios.fourtakas"
 ---
 
 {% include feature_row %}

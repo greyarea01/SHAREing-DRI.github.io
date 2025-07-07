@@ -78,6 +78,15 @@ Swansea University is a research-intensive university in Swansea, Wales, founded
 [Visit Swansea](https://www.swansea.ac.uk)
 
 
+### The University of Manchester 
+
+![The University of Manchester](/assets/logos/UoM1.png)
+
+The University of Manchester is a public research university located in Manchester, UK and its roots trace back to 1824. As a research-intensive institution, it is a member of the Russell Group, the N8 Research Partnership, and the US-based Universities Research Association. Recognised as one of the UK's red brick universities, it has a long-standing tradition of academic excellence, innovation and research. 
+The School of Engineering at the University of Manchester is a centre of excellence in innovation, research, and interdisciplinary collaboration. Through the Modelling and Simulation Centre (MaSC), the School harnesses advanced computational techniques to tackle complex engineering challenges. 
+
+[Visit Manchester](https://www.se.manchester.ac.uk/about/schools-and-departments/school-of-engineering/)
+
 <!-- {% include feature_row %} -->
 
 
