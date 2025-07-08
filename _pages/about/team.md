@@ -22,10 +22,16 @@ feature_row:
     alt: "Stephen Longshaw"
     title: "Stephen Longshaw"
     excerpt: "Stephen Longshaw, Director, Computational Science Centre for Research Communities (CoSeC), STFC"
+    url: "https://www.sc.stfc.ac.uk/team/?searchquery=stephen-longshaw"
+    btn_class: "btn--primary"
+    btn_label: "Visit"
   - image_path: /assets/profilepics/DamianJones.jpg
     alt: "Damian Jones"
     title: "Damian Jones"
     excerpt: "Damian Jones, Programme Manager, Computational Science Centre for Research Communities (CoSeC), STFC"
+    url: "https://www.sc.stfc.ac.uk/team/?searchquery=damian-jones"
+    btn_class: "btn--primary"
+    btn_label: "Visit"
   - image_path: /assets/profilepics/Lucini.jpg
     alt: "Biagio Lucini"
     title: "Biagio Lucini"
